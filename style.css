@@ -18,7 +18,7 @@ color: #fff;
 #header{
     width: 100%;
     height: 100vh;
-    background-image: url(22.png);
+    background-image: url(SATHISH.png);
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -389,7 +389,7 @@ display: block;
 @media only screen and (max-width: 600px) {
     #header{
         
-        background-image: url(gtf.png);
+        background-image: url(Untitled\ design\ \(6\).png);
         
         
     }
